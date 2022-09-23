@@ -13,3 +13,11 @@ Transfer Learning gives higher accuracy compared to training models from scratch
 * ResNet50
 * Inceptionv3
 * MobileNet V2
+
+## Work Flow for this project:
+1. Collect Data Set
+2. Image Processing
+3. Train / Test split
+4. Pretrained MobileNet Model
+5. MobileNet model trained on dog vs cat data
+6. Process new image to classify Dag or Cat
